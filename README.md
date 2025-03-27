@@ -25,15 +25,13 @@ Follow these steps to get the API running on your local machine:
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository_url>
-    cd <repository_directory>
+    git clone https://github.com/poornatejav/todo_crud_app.git
     ```
-    Replace `<repository_url>` with the actual URL of your Git repository and `<repository_directory>` with the name of the cloned directory.
 
 2.  **Navigate to the project directory:**
     ```bash
-    cd <repository_directory>
-    ```
+   cd todo_crud_app
+   ```
 
 3.  **Download dependencies:**
     ```bash
