@@ -30,8 +30,8 @@ Follow these steps to get the API running on your local machine:
 
 2.  **Navigate to the project directory:**
     ```bash
-   cd todo_crud_app
-   ```
+    cd todo_crud_app
+    ```
 
 3.  **Download dependencies:**
     ```bash
